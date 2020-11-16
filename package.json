@@ -1,0 +1,22 @@
+{
+  "name": "runoob",
+  "version": "1.0.0",
+  "description": "Node.js 测试",
+  "main": "test.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {
+    "pkg": "^4.4.9"
+  }
+}
